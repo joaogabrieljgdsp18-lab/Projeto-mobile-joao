@@ -39,3 +39,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# delivery archives
+Projeto-mobile-joao-ENTREGA-FINAL.zip
